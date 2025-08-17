@@ -24,7 +24,6 @@ Conducted a comprehensive vulnerability assessment of MFine’s web application,
 ## Author
 Abdul Jameel A. Shaik  
 GitHub: [jameelahammedsk-hub](https://github.com/jameelahammedsk-hub)  
-LinkedIn: [Add your LinkedIn URL here]
 
 ## License
 Distributed under the MIT License.
